@@ -118,10 +118,10 @@ int main(void)
 ```
 
 ## OUTPUT
-### Board On:
+### Relay On:
 ![ex01-on](https://github.com/user-attachments/assets/e1f5b6cd-7da7-463e-80fd-4c620b1b43d1)
 
-### Board Off:
+### Relay Off:
 ![ex01-off](https://github.com/user-attachments/assets/c446da8b-768c-4855-897d-e186f12ad7aa)
 
 ## Result
